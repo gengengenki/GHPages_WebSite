@@ -1,6 +1,6 @@
 ---
 title: "kojikoji"
-author: 127
+author: peachful
 permalink: /
 ---
 
@@ -14,7 +14,7 @@ permalink: /
 以下テンプレート
 
 # kojikoji
-# 今話題の曲”Hug"
+# １stEP.127
 ### あなたのものの考え方でいい
 #### 見出し4
 ##### 見出し5
