@@ -47,3 +47,4 @@ permalink: /
 | 内容  | 内容  |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
+https://cdn.tower.jp/za/o/2W/zaP2_G8427752W.JPG
