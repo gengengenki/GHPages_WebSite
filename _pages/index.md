@@ -50,9 +50,11 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Ftower.jp%2Fitem%2F4982538%2F12
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
 
 1st EP 127
+
 ![image](https://github.com/gengengenki/GHPages_WebSite/assets/133000373/a352fbdd-8dc1-4ccf-be7e-f4231abf4c0c) 
 
 2st EP PEAUCHFUL 
+
 ![image](https://github.com/gengengenki/GHPages_WebSite/assets/133000373/23e2f210-f514-404a-a723-03d9b5760e8e)
 
 
