@@ -28,7 +28,8 @@ permalink: /
 **太字**
 
 > 引用
->> 多重引用
+https://cdn.tower.jp/za/o/6W/zaP2_G6437206W.JPG
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftower.jp%2Fitem%2F4982538%2F127&psig=AOvVaw029ZUJXrwbslR7bTtxI65N&ust=1683714334174000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiem-iC6P4CFQAAAAAdAAAAABAD
 
 
 - 箇条書きリスト
@@ -44,7 +45,7 @@ permalink: /
 | 列1  | 列2  |
 |-----|-----|
 | 2020,11/02  | 127 |
-| 内容  | 内容  |
+| 2021, 2/24  | PEAUCHFUL  |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
 収録曲
