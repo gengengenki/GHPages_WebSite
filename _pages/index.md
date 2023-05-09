@@ -1,5 +1,5 @@
 ---
-title: "ここにページのタイトル"
+title: "kojikoji"
 author: default
 permalink: /
 ---
@@ -13,7 +13,7 @@ permalink: /
 
 以下テンプレート
 
-# 見出し1
+# 
 ## 見出し2
 ### 見出し3
 #### 見出し4
