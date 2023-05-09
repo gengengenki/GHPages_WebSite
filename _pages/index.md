@@ -1,6 +1,6 @@
 ---
 title: "kojikoji"
-author: default
+author: 127
 permalink: /
 ---
 
