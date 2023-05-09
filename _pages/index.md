@@ -47,7 +47,7 @@ permalink: /
 | 内容  | 内容  |
 
 ![image](/GHPages_WebSite/assets/images/logo-150.png)
-https://cdn.tower.jp/za/o/2W/zaP2_G8427752W.JPG
-![image](https://github.com/gengengenki/GHPages_WebSite/assets/133000373/a352fbdd-8dc1-4ccf-be7e-f4231abf4c0c)
+収録曲
+![image](https://github.com/gengengenki/GHPages_WebSite/assets/133000373/a352fbdd-8dc1-4ccf-be7e-f4231abf4c0c) 
 ![image](https://github.com/gengengenki/GHPages_WebSite/assets/133000373/23e2f210-f514-404a-a723-03d9b5760e8e)
 
