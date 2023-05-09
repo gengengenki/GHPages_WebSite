@@ -14,7 +14,7 @@ permalink: /
 
 以下テンプレート
 
-# kojikoji
+# *kojikoji*
 # 1st.EP.127
 ### あなたのものの考え方でいい
 #### 見出し4
